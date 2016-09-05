@@ -36,8 +36,8 @@
 ## `Prácticas`
 |  Práctica| Ponderación| Fecha  |  Temas  |
 | ---------------- |:-------------:| ---------------- | ---------------- |
-| Primera	|    3% | Martes 30 de agosto       | 1  |
-| Segunda   	|    4% | Martes 20 de septiembre   | 2  |
+| Primera	|    3% | Martes 27 de septiembre       | 1  |
+| Segunda   	|    4% | Martes 27 de septiembre   | 2  |
 | Tercera     	|    4% | Martes 18 de octubre      | 3  |
 | Cuarta    	|    4% | Martes 15 de noviembre    | 4  |
 
@@ -45,10 +45,10 @@
 ## `Etapas del Proyecto`
 | Etapas | Ponderación| Fecha  |  Temas  |
 | ---------------- |:-------------:| ---------------- | ---------------- |
-| Primera Etapa    |     7% | Jueves 01 de septiembre     | 1  |
-| Segunda Etapa    |     6% | Jueves 29 de septiembre     | 2  |
-| Tercera Etapa    |     6% | Jueves 20 de octubre        | 3  |
-| Cuarta Etapa     |     6% | Jueves 24 de noviembre      | 4  |
+| Primera Etapa    |     0% | Jueves 01 de septiembre     | 1  |
+| Segunda Etapa    |     8% | Jueves 29 de septiembre     | 2  |
+| Tercera Etapa    |     8% | Jueves 20 de octubre        | 3  |
+| Cuarta Etapa     |     9% | Jueves 24 de noviembre      | 4  |
 
 
 ### `Examen Recuperatorio \ Segundo Turno`
