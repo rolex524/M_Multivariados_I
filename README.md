@@ -28,7 +28,7 @@
 | Examen | Ponderación| Fecha  |  Temas  |
 | ---------------- |:-------------:| ---------------- | ---------------- |
 | Primer Parcial	|    30% | Martes 03 de octubre    | Temas 1, 2  |
-| Segundo Parcial   	|    30% | Martes 22 de noviembre     | Temas 3, 4  |
+| Segundo Parcial   	|    30% | Jueves 24 de noviembre     | Temas 3, 4  |
 | Proyecto          	|    25% |  |  |
 | Prácticas             |    15% |  |  |
 | Asistencia            |    05% |  |  |
@@ -37,17 +37,17 @@
 |  Práctica| Ponderación| Fecha  |  Temas  |
 | ---------------- |:-------------:| ---------------- | ---------------- |
 | Primera	|    3% | Martes 03 de octubre       | 1  |
-| Segunda   	|    4% | Martes 03 de octubre   | 2  |
-| Tercera     	|    4% | Martes 01 de noviembre      | 3  |
-| Cuarta    	|    4% | Martes 22 de noviembre    | 4  |
+| Segunda   	|    4% | Martes 03 de octubre       | 2  |
+| Tercera     	|    4% | Jueves 24 de noviembre     | 3  |
+| Cuarta    	|    4% | Jueves 24 de noviembre     | 4  |
 
 
 ## `Etapas del Proyecto`
 | Etapas | Ponderación| Fecha  |  Temas  |
 | ---------------- |:-------------:| ---------------- | ---------------- |
 | Primera Etapa    |     8% | Jueves 29 de septiembre     | 2  |
-| Segunda Etapa    |     8% | Jueves 20 de octubre        | 3  |
-| Tercera Etapa    |     9% | Jueves 24 de noviembre      | 4  |
+| Segunda Etapa    |     8% | Jueves 10 de noviembre      | 3  |
+| Tercera Etapa    |     9% | Martes 22 de noviembre      | 4  |
 
 
 ### `Examen Recuperatorio \ Segundo Turno`
