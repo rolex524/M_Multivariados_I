@@ -6,12 +6,14 @@
 
 ## `Contenido Temático`
 > - Tema 1 : Análisis Descriptivo Multivariante 
-> - Tema 2 : Componentes Principales
-> - Tema 3 : Análisis Factorial
-> - Tema 4 : Análisis de Conglomerados
+> - Tema 2 : Distribuciones Multivariantes
+> - Tema 3 : Inferencia Multivariante
+> - Tema 4 : Componentes Principales
+> - Tema 5 : Análisis Factorial
 
 
 ## `Bibliografía`
+
 * Anderson T. W., (1984). “An Introduction to Multivariate Statistical Analysis”, 2da. Impreso en los Estados Unidos de Norte América.
 
 * Hair Joseph; Anderson Rolph; Tatham Ronald y BlackWilliam, (1998). “Análisis Multivariante”, 5ta. Edición Madrid Españ.
@@ -27,34 +29,39 @@
 ## `Evaluaciones Parciales`
 | Examen | Ponderación| Fecha  |  Temas  |
 | ---------------- |:-------------:| ---------------- | ---------------- |
-| Primer Parcial	|    30% | Martes 03 de octubre    | Temas 1, 2  |
-| Segundo Parcial   	|    30% | Jueves 24 de noviembre     | Temas 3, 4  |
+| Primer Parcial	|    20% | Martes 03 de abril   | Temas 1, 2  |
+| Segundo Parcial   	|    20% | Martes 16 de mayo    | Temas 3, 4  |
+| Tercer Parcial        |    20% | Jueves 08 de junio   | Tema 5
 | Proyecto          	|    25% |  |  |
 | Prácticas             |    15% |  |  |
 | Asistencia            |    05% |  |  |
 
+
+
 ## `Prácticas`
 |  Práctica| Ponderación| Fecha  |  Temas  |
 | ---------------- |:-------------:| ---------------- | ---------------- |
-| Primera	|    3% | Martes 03 de octubre       | 1  |
-| Segunda   	|    4% | Martes 03 de octubre       | 2  |
-| Tercera     	|    4% | Jueves 24 de noviembre     | 3  |
-| Cuarta    	|    4% | Jueves 24 de noviembre     | 4  |
+| Primera	|    3% | Jueves 09 de marzo    | 1  |
+| Segunda   	|    3% | Jueves 30 de marzo    | 2  |
+| Tercera     	|    3% | jueves 13 de abril    | 3  |
+| Cuarta    	|    3% | jueves 11 de mayo     | 4  |
+| Quinta    	|    3% | jueves 08 de junio    | 5  |
+
 
 
 ## `Etapas del Proyecto`
 | Etapas | Ponderación| Fecha  |  Temas  |
 | ---------------- |:-------------:| ---------------- | ---------------- |
-| Primera Etapa    |     8% | Jueves 29 de septiembre     | 2  |
-| Segunda Etapa    |     8% | Jueves 10 de noviembre      | 3  |
-| Tercera Etapa    |     9% | Martes 22 de noviembre      | 4  |
+| Primera Etapa    |     9% | Martes 24 de abril           | 1  |
+| Segunda Etapa    |     8% | Martes 30 de marzo           | 2  |
+| Tercera Etapa    |     8% | Martes 13 de junio           | 3  |
 
 
 ### `Examen Recuperatorio \ Segundo Turno`
-> Martes 29 de Noviembre : Todos los temas
+> Martes 13 de Junio : Todos los temas
 
 
 ### `Publicación de Notas Finales`
-> Jueves 01 de Diciembre 
+> Jueves 15 de Junio 
 
 
