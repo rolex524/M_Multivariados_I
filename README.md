@@ -16,11 +16,15 @@
 
 * Anderson T. W., (1984). “An Introduction to Multivariate Statistical Analysis”, 2da. Impreso en los Estados Unidos de Norte América.
 
-* Hair Joseph; Anderson Rolph; Tatham Ronald y BlackWilliam, (1998). “Análisis Multivariante”, 5ta. Edición Madrid Españ.
+* Dallas E. Johnson (2000). “Métodos Multivariados Aplicados al Análisis de Datos”, International Thomson Editores, México.
 
-* Johnson, D. E., (1998). “Métodos Multivariados Aplicados al Análisis de Datos”, Editorial Internacition Thomson Editores, México.
+* Hair Joseph; Anderson Rolph; Tatham Ronald y BlackWilliam, (1998). “Análisis Multivariante”, 5ta. Edición Madrid España.
+
+* Johnson, A . and  Wichern D., (2007). “Applied Multivariate Statistical Analysis”, Editorial Pearson Prentice Hall, Sexta Edición. Estados Unidos de Norte América.
 
 * Mardia K.V., Kent J.T. y Bibby J.M., (1982). "Multivariate Analysis", United States Edition published by Academic Press, Inc. Orlando, Florida.
+
+* Peña Daniel, (2002). “Análisis de Datos Multivariantes”, Editorial McGraw-Hill, Primera Edición en español, España.
 
 * Rencher, Alvin C., (2002). “Methods of Multivariate Analysis”, Editorial Wiley Series in probability and statistics, Canada.
 
@@ -29,7 +33,7 @@
 ## `Evaluaciones Parciales`
 | Examen | Ponderación| Fecha  |  Temas  |
 | ---------------- |:-------------:| ---------------- | ---------------- |
-| Primer Parcial	|    20% | Martes 03 de abril   | Temas 1, 2  |
+| Primer Parcial	|    20% | Martes 04 de abril   | Temas 1, 2  |
 | Segundo Parcial   	|    20% | Martes 16 de mayo    | Temas 3, 4  |
 | Tercer Parcial        |    20% | Jueves 08 de junio   | Tema 5
 | Proyecto          	|    25% |  |  |
@@ -45,16 +49,16 @@
 | Segunda   	|    3% | Jueves 30 de marzo    | 2  |
 | Tercera     	|    3% | jueves 13 de abril    | 3  |
 | Cuarta    	|    3% | jueves 11 de mayo     | 4  |
-| Quinta    	|    3% | jueves 08 de junio    | 5  |
+| Quinta    	|    3% | jueves 01 de junio    | 5  |
 
 
 
 ## `Etapas del Proyecto`
 | Etapas | Ponderación| Fecha  |  Temas  |
 | ---------------- |:-------------:| ---------------- | ---------------- |
-| Primera Etapa    |     9% | Martes 24 de abril           | 1  |
-| Segunda Etapa    |     8% | Martes 30 de marzo           | 2  |
-| Tercera Etapa    |     8% | Martes 13 de junio           | 3  |
+| Primera Etapa    |     9% | Martes 11 de abril           | 1  |
+| Segunda Etapa    |     8% | Martes 09 de mayo            | 2  |
+| Tercera Etapa    |     8% | Martes 30 de mayo            | 3  |
 
 
 ### `Examen Recuperatorio \ Segundo Turno`
