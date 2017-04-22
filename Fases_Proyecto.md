@@ -28,7 +28,8 @@ Análisis previo de los datos (pág. 31-77)
 > - **Paso 5.** Verificación de los supuestos del análisis multivariante
 
 
-## `EL ANÁLISIS FACTORIAL`, incluye variaciones tales como el análisis de componentes principales y el análisis factorial común, es una aproximación estadística que puede usarse para analizar interrelaciones entre un gran número de variable y explicar estas variables en términos de sus dimensiones subyacentes comunes.
+## `EL ANÁLISIS FACTORIAL`
+Incluye variaciones tales como el análisis de componentes principales y el análisis factorial común, es una aproximación estadística que puede usarse para analizar interrelaciones entre un gran número de variable y explicar estas variables en términos de sus dimensiones subyacentes comunes.
 
 
 ## `SEGUNDA FASE`
@@ -67,7 +68,8 @@ Análisis Factorial Común (Pág. 79-124)
 > - **Paso 7.** Usos adicionales de los resultados del análisis factorial
 
 
-## `REFERENCIA BIBLIOGRÁFICA:`  Hair J., Anderson R., Tatham r. and Black W.(1999). “Análisis Multivariante”.  Editorial Prendice Hall. Impreso en España.
+## `REFERENCIA BIBLIOGRÁFICA:` 
+Hair J., Anderson R., Tatham r. and Black W.(1999). “Análisis Multivariante”.  Editorial Prendice Hall. Impreso en España.
 
 
 
