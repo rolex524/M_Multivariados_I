@@ -35,7 +35,7 @@
 | ---------------- |:-------------:| ---------------- | ---------------- |
 | Primer Parcial	|    20% | Martes 04 de abril   | Temas 1, 2  |
 | Segundo Parcial   	|    20% | Martes 16 de mayo    | Temas 3, 4  |
-| Tercer Parcial        |    20% | Jueves 08 de junio   | Tema 5
+| Tercer Parcial        |    20% | Martes 06 de junio   | Tema 5
 | Proyecto          	|    25% |  |  |
 | Prácticas             |    15% |  |  |
 | Asistencia            |    05% |  |  |
@@ -47,7 +47,7 @@
 | ---------------- |:-------------:| ---------------- | ---------------- |
 | Primera	|    3% | Jueves 09 de marzo    | 1  |
 | Segunda   	|    3% | Jueves 30 de marzo    | 2  |
-| Tercera     	|    3% | jueves 13 de abril    | 3  |
+| Tercera     	|    3% | jueves 27 de abril    | 3  |
 | Cuarta    	|    3% | jueves 11 de mayo     | 4  |
 | Quinta    	|    3% | jueves 01 de junio    | 5  |
 
