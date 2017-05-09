@@ -57,8 +57,8 @@
 | Etapas | Ponderación| Fecha  |  Temas  |
 | ---------------- |:-------------:| ---------------- | ---------------- |
 | Primera Etapa    |     9% | Martes 11 de abril           | 1  |
-| Segunda Etapa    |     8% | Martes 09 de mayo            | 2  |
-| Tercera Etapa    |     8% | Martes 30 de mayo            | 3  |
+| Segunda Etapa    |     8% | Jueves 18 de mayo            | 2  |
+| Tercera Etapa    |     8% | Jueves 08 de junio           | 3  |
 
 
 ### `Examen Recuperatorio \ Segundo Turno`
