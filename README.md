@@ -34,8 +34,8 @@
 | Examen | Ponderación| Fecha  |  Temas  |
 | ---------------- |:-------------:| ---------------- | ---------------- |
 | Primer Parcial	|    20% | Martes 04 de abril   | Temas 1, 2  |
-| Segundo Parcial   	|    20% | Martes 16 de mayo    | Temas 3, 4  |
-| Tercer Parcial        |    20% | Martes 06 de junio   | Tema 5
+| Segundo Parcial   	|    20% | Martes 23 de mayo    | Temas 3, 4  |
+| Tercer Parcial        |    20% | Martes 13 de junio   | Tema 5
 | Proyecto          	|    25% |  |  |
 | Prácticas             |    15% |  |  |
 | Asistencia            |    05% |  |  |
@@ -48,8 +48,8 @@
 | Primera	|    3% | Jueves 09 de marzo    | 1  |
 | Segunda   	|    3% | Jueves 30 de marzo    | 2  |
 | Tercera     	|    3% | jueves 27 de abril    | 3  |
-| Cuarta    	|    3% | jueves 11 de mayo     | 4  |
-| Quinta    	|    3% | jueves 01 de junio    | 5  |
+| Cuarta    	|    3% | jueves 23 de mayo     | 4  |
+| Quinta    	|    3% | jueves 13 de junio    | 5  |
 
 
 
@@ -57,15 +57,15 @@
 | Etapas | Ponderación| Fecha  |  Temas  |
 | ---------------- |:-------------:| ---------------- | ---------------- |
 | Primera Etapa    |     9% | Martes 11 de abril           | 1  |
-| Segunda Etapa    |     8% | Jueves 18 de mayo            | 2  |
+| Segunda Etapa    |     8% | Jueves 25 de mayo            | 2  |
 | Tercera Etapa    |     8% | Jueves 08 de junio           | 3  |
 
 
 ### `Examen Recuperatorio \ Segundo Turno`
-> Martes 13 de Junio : Todos los temas
+> Martes 20 de Junio : Todos los temas
 
 
 ### `Publicación de Notas Finales`
-> Jueves 15 de Junio 
+> Jueves 22 de Junio 
 
 
