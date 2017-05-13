@@ -47,9 +47,9 @@
 | ---------------- |:-------------:| ---------------- | ---------------- |
 | Primera	|    3% | Jueves 09 de marzo    | 1  |
 | Segunda   	|    3% | Jueves 30 de marzo    | 2  |
-| Tercera     	|    3% | jueves 27 de abril    | 3  |
-| Cuarta    	|    3% | jueves 23 de mayo     | 4  |
-| Quinta    	|    3% | jueves 13 de junio    | 5  |
+| Tercera     	|    3% | Jueves 27 de abril    | 3  |
+| Cuarta    	|    3% | Martes 23 de mayo     | 4  |
+| Quinta    	|    3% | Martes 13 de junio    | 5  |
 
 
 
