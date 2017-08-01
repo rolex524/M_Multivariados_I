@@ -33,10 +33,9 @@
 ## `Evaluaciones Parciales`
 | Examen | Ponderación| Fecha  |  Temas  |
 | ---------------- |:-------------:| ---------------- | ---------------- |
-| Primer Parcial	|    20% | Martes 04 de abril   | Temas 1, 2  |
-| Segundo Parcial   	|    20% | Martes 23 de mayo    | Temas 3, 4  |
-| Tercer Parcial        |    20% | Martes 13 de junio   | Tema 5
-| Proyecto          	|    25% |  |  |
+| Primer Parcial	|    25% | Martes 03 de octubre   | Temas 1, 2 y 3 |
+| Segundo Parcial   	|    25% | Martes 21 de noviembre | Temas 4 y 5    |
+| Proyecto          	|    30% |  |  |
 | Prácticas             |    15% |  |  |
 | Asistencia            |    05% |  |  |
 
@@ -45,27 +44,28 @@
 ## `Prácticas`
 |  Práctica| Ponderación| Fecha  |  Temas  |
 | ---------------- |:-------------:| ---------------- | ---------------- |
-| Primera	|    3% | Jueves 09 de marzo    | 1  |
-| Segunda   	|    3% | Jueves 30 de marzo    | 2  |
-| Tercera     	|    3% | Jueves 27 de abril    | 3  |
-| Cuarta    	|    3% | Martes 23 de mayo     | 4  |
-| Quinta    	|    3% | Martes 13 de junio    | 5  |
+| Primera	|    3% | Jueves 24 de agosto     | 1  |
+| Segunda   	|    3% | Jueves 14 de septiembre | 2  |
+| Tercera     	|    3% | Martes 03 de octubre    | 3  |
+| Cuarta    	|    3% | Jueves 26 de octubre    | 4  |
+| Quinta    	|    3% | Martes 21 de noviembre  | 5  |
 
 
 
 ## `Etapas del Proyecto`
 | Etapas | Ponderación| Fecha  |  Temas  |
 | ---------------- |:-------------:| ---------------- | ---------------- |
-| Primera Etapa    |     9% | Martes 11 de abril           | 1  |
-| Segunda Etapa    |     8% | Jueves 25 de mayo            | 2  |
-| Tercera Etapa    |     8% | Jueves 08 de junio           | 3  |
+| Primera Etapa    |     8% | Martes 29 de agosto         | 1     | 
+| Segunda Etapa    |     6% | Martes 26 de septiembre     | 2, 3  |
+| Tercera Etapa    |     8% | Martes 31 de octubre        | 4  |
+| Cuarta  Etapa    |     8% | Martes 28 de noviembre      | 5  |
 
 
 ### `Examen Recuperatorio \ Segundo Turno`
-> Martes 20 de Junio : Todos los temas
+> Jueves 30 de Noviembre : Todos los temas
 
 
 ### `Publicación de Notas Finales`
-> Jueves 22 de Junio 
+> Martes 5 de diciembre 
 
 
