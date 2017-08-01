@@ -28,11 +28,22 @@ Análisis previo de los datos (pág. 31-77)
 > - **Paso 5.** Verificación de los supuestos del análisis multivariante
 
 
-## `EL ANÁLISIS FACTORIAL`
-Incluye variaciones tales como el análisis de componentes principales y el análisis factorial común, es una aproximación estadística que puede usarse para analizar interrelaciones entre un gran número de variable y explicar estas variables en términos de sus dimensiones subyacentes comunes.
-
-
 ## `SEGUNDA FASE`
+Inferencia Multivariante y Distribuciones Multivariantes(pág. 31-77) 
+
+> - **Paso 1.** Realizar un análisis univariante para identificar las distribuciones univariantes.
+
+> - **Paso 2.** Realizar un análisis bivariante, luego identificar las distribuciones normales bivariantes.
+
+> - **Paso 3.** Identificar si los datos siguen una distribución Normal Multivariante.
+
+> - **Paso 4.** Aplicar los contrastes inferenciales estudiados en su vector de medias, para el caso de mu_0 puede construir el vector de medianas. Asimismo, se deben aplicar las pruebas para comparar vectores de medias.  
+
+> - **Paso 5.** Aplicar los contrastes inferenciales estudiados en su matriz de covarianzas, para el caso de Sigma_0 puede construir la matriz de covarianzas sesgada. Asimismo, se deben aplicar las pruebas para comparar matrices de covarianzas.  
+
+
+
+## `TERCERA FASE`
 Análisis de Componentes Principales (Pág. 79-124)
 
 > - **Paso 1.** Objetivos del Análisis de Componentes Principales
@@ -50,7 +61,7 @@ Análisis de Componentes Principales (Pág. 79-124)
 > - **Paso 7.** Usos adicionales de los resultados del ACP
 
 
-## `TERCERA FASE`
+## `CUARTA FASE`
 Análisis Factorial Común (Pág. 79-124)
 
 > - **Paso 1.** Objetivos del Análisis Factorial
