@@ -29,7 +29,6 @@
 * Rencher, Alvin C., (2002). “Methods of Multivariate Analysis”, Editorial Wiley Series in probability and statistics, Canada.
 
 
-
 ## `Evaluaciones Parciales`
 | Examen | Ponderación| Fecha  |  Temas  |
 | ---------------- |:-------------:| ---------------- | ---------------- |
@@ -40,7 +39,6 @@
 | Asistencia            |    05% |  |  |
 
 
-
 ## `Prácticas`
 |  Práctica| Ponderación| Fecha  |  Temas  |
 | ---------------- |:-------------:| ---------------- | ---------------- |
@@ -49,7 +47,6 @@
 | Tercera     	|    3% | Martes 03 de octubre    | 3  |
 | Cuarta    	|    3% | Jueves 26 de octubre    | 4  |
 | Quinta    	|    3% | Martes 21 de noviembre  | 5  |
-
 
 
 ## `Etapas del Proyecto`
