@@ -1,0 +1,45 @@
+# Fuente: https://plepso.blogspot.com/2015/08/analisis-factorial-e-investigacion-de.html
+# Los encuestados utilizaron una escala de 7 puntos (1 = Muy en desacuerdo, 
+# 7 =Muy desacuerdo), para expresar su grado de acuerdo o desacuerdo con:
+# x1: Es importante comprar dentífricos que prevengan las caries
+# x2: Me gustan los dentífricos que dejan los dientes brillantes
+# x3: Un dentífrico tiene que fortalecer las encías
+# x4: Prefiero un dentífrico que refresque el aliento
+# x5: La prevención de las caries no es un beneficio importante ofrecido por los dentífricos
+# x6: La consideración más importante al comprar un dentífrico son los dientes bellos
+#
+x1 x2 x3 x4 x5 x6
+7 3 6 4 2 4
+1 3 2 4 5 4 
+6 2 7 4 1 3
+4 5 4 6 2 5
+1 2 2 3 6 2
+6 3 6 4 2 4
+5 3 6 3 4 3
+6 4 7 4 1 4
+3 4 2 3 6 3
+2 6 2 6 7 6
+6 4 7 3 2 3
+2 3 1 4 5 4
+7 2 6 4 1 3
+4 6 4 5 3 6
+1 3 2 2 6 4
+6 4 6 3 3 4
+5 3 6 3 3 4
+7 3 7 4 1 4
+2 4 3 3 6 3
+3 5 3 6 4 6
+1 3 2 3 5 3
+5 4 5 4 2 4
+2 2 1 5 4 4
+4 6 4 6 4 7
+6 5 4 2 1 4
+3 5 4 6 4 7
+4 4 7 2 2 5
+3 7 2 6 4 3
+4 6 3 7 2 7
+2 3 2 4 7 2
+
+
+
+
