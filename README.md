@@ -33,7 +33,7 @@
 | Examen | Ponderación| Fecha  |  Temas  |
 | ---------------- |:-------------:| ---------------- | ---------------- |
 | Primer Parcial	|    25% | Martes 03 de octubre   | Temas 1, 2 y 3 |
-| Segundo Parcial   	|    25% | Martes 21 de noviembre | Temas 4 y 5    |
+| Segundo Parcial   	|    25% | Martes 28 de noviembre | Temas 4 y 5    |
 | Proyecto          	|    30% |  |  |
 | Prácticas             |    15% |  |  |
 | Asistencia            |    05% |  |  |
@@ -46,23 +46,23 @@
 | Segunda   	|    3% | Jueves 14 de septiembre | 2  |
 | Tercera     	|    3% | Martes 03 de octubre    | 3  |
 | Cuarta    	|    3% | Jueves 26 de octubre    | 4  |
-| Quinta    	|    3% | Martes 21 de noviembre  | 5  |
+| Quinta    	|    3% | Martes 28 de noviembre  | 5  |
 
 
 ## `Etapas del Proyecto`
 | Etapas | Ponderación| Fecha  |  Temas  |
 | ---------------- |:-------------:| ---------------- | ---------------- |
-| Primera Etapa    |     8% | Martes 19 de septiembre         | 1     | 
-| Segunda Etapa    |     6% | Martes 10 de octubre            | 2, 3  |
-| Tercera Etapa    |     8% | Martes 31 de octubre        | 4  |
-| Cuarta  Etapa    |     8% | Martes 28 de noviembre      | 5  |
+| Primera Etapa    |     8% | Martes 19 de septiembre     | 1     | 
+| Segunda Etapa    |     6% | Martes 10 de octubre        | 2, 3  |
+| Tercera Etapa    |     8% | Jueves 30 de noviembre        | 4  |
+| Cuarta  Etapa    |     8% | Jueves 30 de noviembre      | 5  |
 
 
 ### `Examen Recuperatorio \ Segundo Turno`
-> Jueves 30 de Noviembre : Todos los temas
+> Martes 05 de Diciembre : Todos los temas
 
 
 ### `Publicación de Notas Finales`
-> Martes 5 de diciembre 
+> Jueves 7 de diciembre 
 
 
