@@ -54,8 +54,8 @@
 | ---------------- |:-------------:| ---------------- | ---------------- |
 | Primera Etapa    |     8% | Martes 19 de septiembre     | 1     | 
 | Segunda Etapa    |     6% | Martes 10 de octubre        | 2, 3  |
-| Tercera Etapa    |     8% | Jueves 30 de noviembre        | 4  |
-| Cuarta  Etapa    |     8% | Jueves 30 de noviembre      | 5  |
+| Tercera Etapa    |     8% | Viernes 01 de diciembre     | 4  |
+| Cuarta  Etapa    |     8% | Martes 05 de diciembre      | 5  |
 
 
 ### `Examen Recuperatorio \ Segundo Turno`
